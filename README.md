@@ -1,4 +1,4 @@
-# twitter_brute_force
-make sure u install model from requirements.txt
-by this command 
-pip install -r requirements.txt
+### twitter_brute_force 
+1. make sure u install model from requirements.txt
+2. by this command 
+* pip install -r requirements.txt 
