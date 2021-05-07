@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
 
-### made with <3
-### 😀❤
 import requests
 import string
 import json
